@@ -1,2 +1,2 @@
 # BP6602Pro-TC
-mcu:2560
+mcu:328p
