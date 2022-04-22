@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "sketch": "2.0\\BP6602pV2-TC.ino",
+    "output": ".bin/",
+    "programmer": "arduino:parallel"
+}

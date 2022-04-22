@@ -1,0 +1,15 @@
+#ifndef PINS_H
+#define PINS_H
+
+#define COOL_CAVITY_E0_PIN 5
+#define HEATER_CAVITY_E0_PIN 6
+
+#define COOL_CAVITY_E1_PIN 8
+#define HEATER_CAVITY_E1_PIN 9
+
+#define COOL_PLATFORM_PIN 3
+#define HEATER_PLATFORM_PIN 4
+
+#define BUZZER_PIN 11
+
+#endif
