@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:nano",
-    "configuration": "cpu=atmega328"
+    "configuration": "cpu=atmega328",
+    "sketch": "1.0\\BP6602p-TC.0.1.6.ino"
 }
