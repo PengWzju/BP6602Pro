@@ -1,0 +1,19 @@
+#ifndef PINS_H
+#define PINS_H
+
+#define FAN_PIN 2
+#define COOL_PLATFORM_PIN 3
+#define HEATER_PLATFORM_PIN 4
+#define COOL_EXTRUDER_PIN 5
+#define HEATER_EXTRUDER_PIN 6
+#define LIQUID_LEVEL_LOW_PIN 7
+#define LIQUID_LEVEL_HIGH_PIN 8
+#define PUMP_PIN 9
+#define BUZZER_PIN 10
+
+#define TEMP_PLATFORM_PIN A0
+#define TEMP_WATER_PIN A1
+#define TEMP_EXTRUDER_PIN A2
+
+
+#endif
