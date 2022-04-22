@@ -1,1 +1,2 @@
-# BP6602Pro
+# BP6602Pro-TC
+mcu:2560
